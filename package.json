@@ -1,0 +1,22 @@
+{
+    "name": "package.json",
+    "version": "1.0.0",
+    "description": "Portfoilio generator",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JoshPrice315/portfolio-generator.git"
+    },
+    "author": "Josh Price",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JoshPrice315/portfolio-generator/issues"
+    },
+    "homepage": "https://github.com/JoshPrice315/portfolio-generator#readme",
+    "dependencies": {
+        "inquirer": "^7.1.0"
+    }
+}
